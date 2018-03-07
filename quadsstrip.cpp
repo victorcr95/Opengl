@@ -19,7 +19,7 @@ void display(void)
 		glVertex3f(0.9f,0.8 f,0.0f);
     glEnd();
     glFlush ();
-
+//que mamada
 }
 void init (void)
 {
